@@ -7,4 +7,4 @@ Use PHP-8.3.9
 
 Use Cron Or Task Scheduler
 
-Use Huwei E1550 with drivers from MTS-Connect
+Use Huwei E1550 with factory driver from virtual disk
