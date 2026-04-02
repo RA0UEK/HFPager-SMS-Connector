@@ -1,4 +1,4 @@
-Diamond Party
+SMS-Connector for HFPager
 
 
 Use Gammu-1.43.2-Windows-Minimal in Files-mode
